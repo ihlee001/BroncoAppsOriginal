@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wink-1.1.3-incubating">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/wink-1.1.3-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
